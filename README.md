@@ -1,26 +1,25 @@
 # Project-Proposal-Coursepik
 Contains two Jupyter notebooks of descriptive statistics about my proposed project
 
-# Notebook-1 Course Demand and graduation rates
-This notebook tends to explore the various courses that are in demand in each category
-Eg. Charts to describe popular courses in STEM 
+# Notebook-1 Course Demand
+This notebook tends to explore the various categorizes of courses that are popular, which states are have high admission rates
 
-Further it contains which universities are popular for those courses, graduation rates and employment statistics of gradautes
 
-# Notebook-2 Cost Analysis of popular courses
-Exploring how students pay for their courses, financial aid recieved, average debt and monthly repayment value. 
-Eg. Summary statistics about average cost of popular degree courses
+# Notebook-2 Cost Analysis
+ This notebook shows the top universities and uncovers myth about "Expensive education" and "Quality"
+
 
 
 # Some intriguing results from the analysis: 
 
-1. 
+1. States with high admission rates may not be the best choice, their courses might not meet industry demands as top schools usually have high bar for admissions. 
 
 
-2. 
+2. Education in the top schools may not be the most expensive, top schools offer high academic credibility and their courses align with skills in demand in the industry. 
 
 
-3. 
+3. Most popular major is "Business" though STEM skills have higher demand in the industry, thus there is a need for a conscious effort in this direction. 
+
 
 # Conclusion
 
